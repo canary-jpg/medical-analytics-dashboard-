@@ -1,0 +1,4 @@
+name: medical_warehouse
+type: duckdb
+options:
+  filename: medical_warehouse.duckdb
