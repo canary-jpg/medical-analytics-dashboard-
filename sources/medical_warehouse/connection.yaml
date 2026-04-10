@@ -1,4 +1,4 @@
 name: medical_warehouse
-type: duckdb
+type: csv
 options:
   filename: medical_warehouse.duckdb
